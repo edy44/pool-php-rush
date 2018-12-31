@@ -18,7 +18,7 @@ class AppModel
      */
     const DB_HOST = 'localhost';
     const DB_USERNAME = 'root';
-    const DB_PASSWORD = 'ha3085';
+    const DB_PASSWORD = 'root';
     const DB_PORT = 80;
     const DB_NAME = 'pool_php_rush';
 
