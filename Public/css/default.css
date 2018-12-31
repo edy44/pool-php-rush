@@ -1,0 +1,107 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    min-height: 50%;
+}
+
+.main-container {
+    margin: 3%;
+}
+
+.card {
+    height: 200px;
+}
+
+.card-content {
+    height: 150px;
+}
+
+.card-action {
+    height: 10px;
+}
+
+main {
+    margin-top: 50px;
+}
+
+.alert-flash {
+    text-align: center;
+    font-size: 1.2em;
+    background-color: rgba(87,200,83,0.8);
+    color: #0f6019;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+.alert-error {
+    background-color: rgba(127,50,53,0.8);
+    color: rgba(106,0,6,0.93);
+    margin: 3px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+form {
+    margin-bottom: 50px;
+}
+
+.brand-logo {
+    margin-left: 50px;
+}
+
+.category {
+    text-align: center;
+    font-size: 1.2rem;
+    background-color: #ee6e73;
+    border: 1px #ee6e73 solid;
+    border-radius: 5px;
+}
+
+.category  a {
+    color: white;
+}
+
+h5, .btn-submit {
+    text-align: center;
+}
+
+.btn-search
+{
+    background-color: transparent;
+    border: none;
+}
+
+.search {
+    text-align: center;
+    color: white;
+}
+
+.active {
+    background-color: white;
+}
+
+.active a {
+    color: black;
+}
+
+h6, .pagination {
+    text-align: center;
+}
+
+aside {
+    position: absolute;
+    right: 0;
+    top: 100px;
+    width: 20%;
+    margin-right: 5%;
+}
+
+footer {
+    width: 100%;
+    padding: 0;
+}
